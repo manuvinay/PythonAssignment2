@@ -1,4 +1,3 @@
-# Assignment 2
 <h1>Assignment 2: Control Structures in Python</h1>
 
 <p>This repository contains Python scripts for Module 3, focusing on conditional statements and loops.</p>
